@@ -1,4 +1,4 @@
 # MartynaLatka.RozaMatlakiewicz.DS.2025
 Descriptive Statistics 2025
-gfcjdfrdj
-dziala?/
+Martyna Łatka
+Cooperator: Róża Matlakiewicz
