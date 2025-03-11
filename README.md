@@ -8,5 +8,4 @@ Cooperator: Róża Matlakiewicz
 ----------
 Homework:
 ----------
-
-Martyna Łątka: https://github.com/MartynaLatka/MartynaLatkaDS/blob/main/Report1.ipynb
+- [report 1 - pipes](https://github.com/MartynaLatka/MartynaLatkaDS/blob/main/Report1.ipynb)
