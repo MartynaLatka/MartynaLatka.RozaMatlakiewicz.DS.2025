@@ -1,9 +1,9 @@
 # MartynaLatka.RozaMatlakiewicz.DS.2025
 Descriptive Statistics 2025
 
-Leader: Martyna Łatka
+Leader: [Martyna Łątka](https://github.com/MartynaLatka)
 
-Cooperator: Róża Matlakiewicz
+Cooperator: [Róża Matlakiewicz](https://github.com/RozaMatlakiewicz/RMatlakiewicz)
 
 ----------
 Homework:
