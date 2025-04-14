@@ -3,7 +3,7 @@ Descriptive Statistics 2025
 
 Leader: Martyna Łatka
 
-Cooperator: Róża Matlakiewicz
+Cooperator: [Róża Matlakiewicz](https://github.com/RozaMatlakiewicz/RMatlakiewicz)
 
 ----------
 Homework:
