@@ -13,5 +13,5 @@ Homework:
 
 - [report 2 - data wrangling](https://github.com/MartynaLatka/MartynaLatka.RozaMatlakiewicz.DS.2025/tree/main/report2)
 - [report 3 - data cleansing]()
-- report 4 - data visualization - in progress
+- [report 4 - data visualization - data visualization in pyplot](https://github.com/MartynaLatka/MartynaLatka.RozaMatlakiewicz.DS.2025/blob/main/report4/Exercise5.ipynb)
   
