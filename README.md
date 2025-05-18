@@ -14,4 +14,4 @@ Homework:
 - [report 2 - data wrangling](https://github.com/MartynaLatka/MartynaLatka.RozaMatlakiewicz.DS.2025/tree/main/report2)
 - [report 3 - data cleansing](https://github.com/MartynaLatka/MartynaLatka.RozaMatlakiewicz.DS.2025/blob/main/report3/Exercise%204.ipynb)
 - [report 4 - data visualization - data visualization in pyplot & seaborn](https://github.com/MartynaLatka/MartynaLatka.RozaMatlakiewicz.DS.2025/tree/main/report4)
-- [report 5 - univariate analysis ]()
+- [report 5 - univariate analysis ](https://github.com/MartynaLatka/MartynaLatka.RozaMatlakiewicz.DS.2025/tree/600ade821b8ce753aefb12d6fa15f4a2a17d1a6b/report5)
