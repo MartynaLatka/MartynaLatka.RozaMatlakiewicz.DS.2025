@@ -16,3 +16,4 @@ Homework:
 - [report 4 - data visualization - data visualization in pyplot & seaborn](https://github.com/MartynaLatka/MartynaLatka.RozaMatlakiewicz.DS.2025/tree/main/report4)
 - [report 5 - univariate analysis ](https://github.com/MartynaLatka/MartynaLatka.RozaMatlakiewicz.DS.2025/tree/600ade821b8ce753aefb12d6fa15f4a2a17d1a6b/report5)
 - [report 6 - bivariate analysis ](https://github.com/MartynaLatka/MartynaLatka.RozaMatlakiewicz.DS.2025/tree/da0fa208ad7a7788abcb71ddfd1499131aa595d7/report6)
+-[report 7](https://github.com/MartynaLatka/MartynaLatka.RozaMatlakiewicz.DS.2025/blob/main/report7/Exercise10.ipynb)
